@@ -1,0 +1,11 @@
+{
+  "name": "SublimeLinter-contrib-coffee-jshint",
+  "version": "0.0.1",
+  "description": "SublimeLinter 3 linter for CoffeeScript using coffee-jshint",
+  "repository": "univerio/SublimeLinter-contrib-coffee-jshint",
+  "author": "univerio",
+  "bugs": {
+    "url": "https://github.com/univerio/SublimeLinter-contrib-coffee-jshint/issues"
+  },
+  "homepage": "https://github.com/univerio/SublimeLinter-contrib-coffee-jshint"
+}
